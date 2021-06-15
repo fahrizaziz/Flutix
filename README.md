@@ -1,4 +1,4 @@
-# bwa_flutix
+# flutix
 
 A new Flutter project.
 
